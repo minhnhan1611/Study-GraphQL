@@ -1,0 +1,38 @@
+{
+  "books": [
+    {
+      "bookName": "The Awakening",
+      "genre": "fantasy",
+      "authorId": "1",
+      "id": 1
+    },
+    {
+      "bookName": "City of Glass",
+      "genre": "adventure",
+      "authorId": "2",
+      "id": 2
+    },
+    {
+      "bookName": "fast and furious",
+      "genre": "Action Movie",
+      "authorId": "2",
+      "id": 4
+    },
+    {
+      "bookName": "mario",
+      "genre": "fanstacy",
+      "authorId": "2",
+      "id": 5
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "authorName": "Kate Chopin"
+    },
+    {
+      "id": 2,
+      "authorName": "Paul Auster"
+    }
+  ]
+}
